@@ -2,7 +2,7 @@
   <p align="center"><i>H E L L O, I'M <br>J A E H Y E O N G</i></p>
 </h1>
 
-
+![image1](https://user-images.githubusercontent.com/77396216/130805547-d2c12b1c-a870-49cf-a51c-e4cca3cc9dbf.jpg)
 
 
 <h2><div align="center">🛠 Developer Skills </div></h2>
