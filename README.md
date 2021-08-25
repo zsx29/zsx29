@@ -2,7 +2,6 @@
   <p align="center">
     <i>H E L L O, I'M <br>J A E H Y E O N G</i>
   </p>
-  <p align="center"><a href="#"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzsx29%2Fhit-counter&count_bg=%238172FF&title_bg=%23555555&icon=verizon.svg&icon_color=%23FFFFFF&title=Hits&edge_flat=false"/></a></p>
 </h1>
 
 
@@ -35,6 +34,9 @@
 
 <div align="center">
 <a href="https://www.instagram.com/jaehye0ng2/" target=blank><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>  <a href="https://github.com/zsx29"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> <a href="mailto:zsx29@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
+</br></br></br>
+
+<p align="center"><a href="#"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzsx29%2Fhit-counter&count_bg=%238172FF&title_bg=%23555555&icon=verizon.svg&icon_color=%23FFFFFF&title=Hits&edge_flat=false"/></a></p>
 </div>
 </br>
 </br>
