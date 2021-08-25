@@ -1,6 +1,12 @@
 <h1>
-  <p align="center"><i>H E L L O, I'M <br>J A E H Y E O N G</i></p>
+  <p align="center">
+    <i>H E L L O, I'M <br>J A E H Y E O N G</i>
+  </p>
+  <p align="center"><a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%238172FF&title_bg=%23555555&icon=verizon.svg&icon_color=%23FFFFFF&title=Hits&edge_flat=false"/>
+  </a></p>
 </h1>
+
 
 ![image1](https://user-images.githubusercontent.com/77396216/130805547-d2c12b1c-a870-49cf-a51c-e4cca3cc9dbf.jpg)
 
