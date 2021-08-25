@@ -34,7 +34,11 @@
 </br>
 </br>
 </br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zsx29)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=zsx29&show_icons=true&theme=gotham" height=180px style="max-width:100%" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zsx29&layout=compact&theme=gotham" height=180px style="max-width:100%"/>
+
+</div>
+
 
 
 
