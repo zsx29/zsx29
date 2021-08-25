@@ -1,6 +1,8 @@
-### 👋 Hi there 
+<h1>
+  <p align="center"><i>H E L L O, I'M <br>J A E H Y E O N G</i></p>
+</h1>
 
-### 개발자를 꿈꾸는 박재형입니다 🙏
+
 
 
 <h2><div align="center">🛠 Developer Skills </div></h2>
