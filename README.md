@@ -2,9 +2,7 @@
   <p align="center">
     <i>H E L L O, I'M <br>J A E H Y E O N G</i>
   </p>
-  <p align="center"><a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%238172FF&title_bg=%23555555&icon=verizon.svg&icon_color=%23FFFFFF&title=Hits&edge_flat=false"/>
-  </a></p>
+  <p align="center"><a href="#"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzsx29%2Fhit-counter&count_bg=%238172FF&title_bg=%23555555&icon=verizon.svg&icon_color=%23FFFFFF&title=Hits&edge_flat=false"/></a></p>
 </h1>
 
 
